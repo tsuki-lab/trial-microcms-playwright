@@ -1,0 +1,21 @@
+{
+  "apiFields": [
+    {
+      "idValue": "k4JiHTLAnk",
+      "fieldId": "title",
+      "name": "タイトル",
+      "kind": "text"
+    },
+    { "fieldId": "description", "name": "概要", "kind": "textArea" },
+    {
+      "fieldId": "content",
+      "name": "本文",
+      "kind": "richEditorV2",
+      "customClassList": [
+        { "id": "OvfYc2S7Yv", "name": "マーカー", "value": "marker" }
+      ]
+    },
+    { "fieldId": "thumbnail", "name": "サムネイル画像", "kind": "media" }
+  ],
+  "customFields": []
+}
